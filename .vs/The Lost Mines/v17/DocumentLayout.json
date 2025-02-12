@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Labs\\The Lost Mines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57D4F15-5E9D-333E-AAC7-66CCB203A297}|Assembly-CSharp.csproj|d:\\unity labs\\the lost mines\\assets\\scripts\\menu_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57D4F15-5E9D-333E-AAC7-66CCB203A297}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu_music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_Music.cs",
+              "DocumentMoniker": "D:\\Unity Labs\\The Lost Mines\\Assets\\Scripts\\Menu_Music.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu_Music.cs",
+              "ToolTip": "D:\\Unity Labs\\The Lost Mines\\Assets\\Scripts\\Menu_Music.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu_Music.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:29:55.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

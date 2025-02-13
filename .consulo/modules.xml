@@ -19,6 +19,243 @@
           <orderEntry type="sourceFolder" />
         </module-layer>
       </module>
+      <module name="Assembly-CSharp-firstpass" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_10_0" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="unity-package" name="com.unity.collab-proxy" version="2.6.0" />
+          <orderEntry type="unity-package" name="com.unity.feature.development" version="1.0.1" />
+          <orderEntry type="unity-package" name="com.unity.textmeshpro" version="3.0.7" />
+          <orderEntry type="unity-package" name="com.unity.timeline" version="1.7.6" />
+          <orderEntry type="unity-package" name="com.unity.ugui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.visualscripting" version="1.9.4" />
+          <orderEntry type="unity-package" name="com.unity.modules.ai" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.androidjni" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.animation" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.assetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.audio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.cloth" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.director" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imageconversion" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imgui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.jsonserialize" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.particlesystem" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics2d" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.screencapture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrain" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrainphysics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.tilemap" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.ui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.uielements" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.umbra" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unityanalytics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequest" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestassetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestaudio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequesttexture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestwww" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vehicles" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.video" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vr" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.wind" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.xr" version="1.0.0" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="dot-net-library" name="System.Net.Http" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp-Editor" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_10_0" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="module" module-name="Assembly-CSharp" />
+          <orderEntry type="dot-net-library" name="UnityEditor.Graphs" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="unity-package" name="com.unity.collab-proxy" version="2.6.0" />
+          <orderEntry type="unity-package" name="com.unity.feature.development" version="1.0.1" />
+          <orderEntry type="unity-package" name="com.unity.textmeshpro" version="3.0.7" />
+          <orderEntry type="unity-package" name="com.unity.timeline" version="1.7.6" />
+          <orderEntry type="unity-package" name="com.unity.ugui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.visualscripting" version="1.9.4" />
+          <orderEntry type="unity-package" name="com.unity.modules.ai" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.androidjni" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.animation" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.assetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.audio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.cloth" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.director" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imageconversion" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imgui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.jsonserialize" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.particlesystem" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics2d" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.screencapture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrain" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrainphysics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.tilemap" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.ui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.uielements" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.umbra" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unityanalytics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequest" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestassetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestaudio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequesttexture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestwww" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vehicles" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.video" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vr" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.wind" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.xr" version="1.0.0" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="dot-net-library" name="System.Net.Http" />
+        </module-layer>
+      </module>
+      <module name="Assembly-CSharp" current-layer="Default">
+        <module-layer name="Default">
+          <extension id="unity3d-child" />
+          <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_10_0" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Joystick_Controller.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Joystick_Controller.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Menu_Music.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Menu_Music.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Volume_Music.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Volume_Music.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs.meta" />
+          <orderEntry type="sourceFolder" />
+          <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
+          <orderEntry type="dot-net-library" name="mscorlib" />
+          <orderEntry type="dot-net-library" name="UnityEditor" />
+          <orderEntry type="dot-net-library" name="UnityEngine" />
+          <orderEntry type="unity-package" name="com.unity.collab-proxy" version="2.6.0" />
+          <orderEntry type="unity-package" name="com.unity.feature.development" version="1.0.1" />
+          <orderEntry type="unity-package" name="com.unity.textmeshpro" version="3.0.7" />
+          <orderEntry type="unity-package" name="com.unity.timeline" version="1.7.6" />
+          <orderEntry type="unity-package" name="com.unity.ugui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.visualscripting" version="1.9.4" />
+          <orderEntry type="unity-package" name="com.unity.modules.ai" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.androidjni" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.animation" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.assetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.audio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.cloth" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.director" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imageconversion" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.imgui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.jsonserialize" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.particlesystem" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.physics2d" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.screencapture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrain" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.terrainphysics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.tilemap" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.ui" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.uielements" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.umbra" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unityanalytics" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequest" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestassetbundle" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestaudio" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequesttexture" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.unitywebrequestwww" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vehicles" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.video" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.vr" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.wind" version="1.0.0" />
+          <orderEntry type="unity-package" name="com.unity.modules.xr" version="1.0.0" />
+          <orderEntry type="dot-net-library" name="System" />
+          <orderEntry type="dot-net-library" name="System.Core" />
+          <orderEntry type="dot-net-library" name="System.Runtime.Serialization" />
+          <orderEntry type="dot-net-library" name="System.Xml" />
+          <orderEntry type="dot-net-library" name="System.Xml.Linq" />
+          <orderEntry type="dot-net-library" name="System.Net.Http" />
+        </module-layer>
+      </module>
     </modules>
   </component>
 </project>

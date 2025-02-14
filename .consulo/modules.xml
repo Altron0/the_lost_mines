@@ -132,8 +132,10 @@
         <module-layer name="Default">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-name="_10_0" />
-          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Joystick_Controller.cs" />
-          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Joystick_Controller.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/ControlPlayer/Joystick_Controller.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/ControlPlayer/Joystick_Controller.cs.meta" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/ControlPlayer/Player.cs" />
+          <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/ControlPlayer/Player.cs.meta" />
           <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Menu_Music.cs" />
           <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Menu_Music.cs.meta" />
           <content url="file://$USER_HOME$/Unity/Projects/THE LOST MINES/Assets/Scripts/Music/Volume_Music.cs" />

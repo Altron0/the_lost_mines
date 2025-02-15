@@ -2,99 +2,441 @@
 <project>
   <component name="ChangeListManager">
     <list default="true" id="e5cc5578-6cd0-4b22-bb01-d50c3869643c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Joystick_Controller.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Scripts/Joystick_Controller.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2-prev.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docs/05-Kriterii-otsenki_1.xlsx" afterPath="$PROJECT_DIR$/Docs/05-Kriterii-otsenki_1.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Settings.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Settings.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.consulo/modules.xml" afterPath="$PROJECT_DIR$/.consulo/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/17/177d5f4b4f6482cef54eaab263651cc3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/1f/1f1176f3d29ccb30a2fca683af757eb9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/2e/2e5bd1cb3b7d19ba3b28d42377787887" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/3a/3a518b2fcae1192cf4b21ed4f18c85a6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/3b/3b34cdcac6dbcf4afc349db4e2719ea1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/43/43d5d59544e8bd9892b654f22798581f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/45/45d15e8e0b59a12b38aad2e579162d4f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/49/49339c2868327ee41b2175cc8efccd39" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/4e/4eef5e19a0438c15ec151d43abe0ac4a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/55/55c7dae9e5ab88377dc9b4619d093326" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/5b/5bb09bd3101d956c892ef0369c9359cf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/5d/5dc27ce5da53d8f59f9334531806b6f5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/65/658c9e775432db737b387cd8793c83a8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/71/7160b81705f5b9dad1d7d58b17cbba49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/9a/9a66ba951c355f84758fceb494de1eac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/9a/9abb97b4f7e3ef0de65bcfdcee70f66d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/a2/a2410774df83aed73955cc164cd8ae01" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/a7/a7cdc72145bc1541f6f21c47e60b8bbe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/ac/ac87ea01b5a725e80aa14c0b54891c5b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/bd/bd1d1538221747d21397577eebc02849" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/d3/d3c9a336beed53d3174a244f603abd3f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Artifacts/dc/dcebea276c9c7757f9edfd9d4377370d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE-inputdata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag.outputdata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag.payloads" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag_derived" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/200b0aE.dag_fsmtime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/10152ea7886e6249c8a195796b4e89b8_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/11e06435e104a779ca89327d6293fc31_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/1a99a680dfe87139498ebbb9d682de19_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/1b87785640d70f2fee7026d9a9275839_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/3014d3c3d3f2b0cf0f69e0ee99d9e7da_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/3e008bfd5665c56ca4ac6612fe4a7b1f_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/3fc647dfd5d2619edb3f29703e4735f7_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/55a5ba4e0ca302e042775466336722d2_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/691936430284575033cfa70daab01de5_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/80af8198c99241320cdc5f2a82919c55_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/85e5463ea84c26ce2fd1420d8d940840_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/9af56f4db55c9b0e3c73dcd837953e8e_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/9cd861557d24ee5e65be9867532610ef_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/af57c9f4559b88585d16fdeba61d6f7c_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/b1ab969ef195e84dd953ddcb7f641db4_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/c389ead2829fed6b3f7692573291f32a_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/cce28d5c263bc10d94ee540388239ac0_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/ce08bc06c4db4eb3571128b49c89bb0d_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/cfdb984cb512a9c7fdd26561d58b3ec7_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/d271f4bca8ed9b818828dcc44a581962_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/d28ed7dbb66a632f4ce03f6915f69e6d_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/d6bbc6e671237b71ff33fb61f518772a_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/dc33ae78e6f714496d6e85662356fc02_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/e1b6bcca0f4258fd2e0a717e6fa10c48_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/e5ef3a935fa65629d2309c86e3d6ba5a_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/e9b92d0af978d963458570e5fc039be9_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/CachedNodeOutput/fb9759a2bee83aa1e99c87ecb203204c_out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.dll.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.rsp2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Android.Gradle.dll_876ED09A5990BBDC.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Android.GradleProject.dll_866B2A0177A9C599.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Android.Types.dll_11707A067F268020.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_728C78151872B5E7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_C3EE3B81D8CE5737.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_CBF917C274624EE2.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_A276D0F1D4D046E3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Settings.Editor.ref.dll_8523B682F3EEFDBC.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll_D99F3560B5399C1F.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll_D28CA8BFC1EBBB4C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_2607E0EF38FFFC65.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_C5B7873C632B963A.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_EA61D4CF7C90DCE7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_1305DD42619CF31E.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_D292A1F7EB1601C3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_58A7DE8130CE9FA5.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.Editor.ref.dll_FE8D1F6CE20A2409.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.ref.dll_4EC1FE8B3807FE28.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.Editor.ref.dll_7BBE081BF0E8AF4A.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.ref.dll_95D2DEE1BA1172D7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_AD2FFB7646FD92B4.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_CBD4E358CB8CDF43.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.Editor.ref.dll_BC6ADFF987BC82A3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_697AC546F729FDEE.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_F37C0F1BA2EC04B9.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.Android.Extensions.dll_485885025A08699C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_4FCDCF6980F0D424.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_3C5AFA29273C2EDD.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.DiagnosticsModule.dll_8CB32BF03CADE1EB.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.EditorToolbarModule.dll_8088E71C8BB5A30D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.GraphViewModule.dll_210A134FB9AD7662.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_65BD832AEB7A3A56.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.OSXStandalone.Extensions.dll_F00320436E7ADB67.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.PresetsUIModule.dll_DC704C31BC05CE67.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.QuickSearchModule.dll_17C2ACFD9584DE44.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.SceneTemplateModule.dll_A42857DA8AA24D45.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.SceneViewModule.dll_5FB9F657AED04370.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_DE1D13444BAAFBE7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreFontEngineModule.dll_953BBC484D1CAD22.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreTextEngineModule.dll_DD23F2B9DCA06640.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_BD0E97F52A0DF729.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.UIBuilderModule.dll_7592C06C2C65EF96.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsModule.dll_60D10E0CCACDD8E0.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsSamplesModule.dll_EC92D113B278768D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.UnityConnectModule.dll_5040C1C3DF1B94DA.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.dll_F66ABE2621FA1C31.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEditor.iOS.Extensions.Xcode.dll_4963D37398C704FA.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AIModule.dll_71802B832A8385F8.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ARModule.dll_2AF2F08687A0E4C1.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AccessibilityModule.dll_D6CDC3718B1874E2.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AndroidJNIModule.dll_DF19F6E013ED47B6.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AnimationModule.dll_EF8F8F78940A4B08.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_5BABDFEEF7EB9336.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_EFE6ED82CC8DA9FA.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_56CF4A7DA6AA88DE.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterInputModule.dll_CFDD36D990A367A0.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterRendererModule.dll_4207BC9A96F73C61.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ContentLoadModule.dll_F4C2392FC66E3B23.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_72EEA2BC28F63F4F.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_464443890A4BFA47.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.DSPGraphModule.dll_B344ED3B56A13A4D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.DirectorModule.dll_ADF38BD1E440692C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.GIModule.dll_09BC7490C6326E12.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.GameCenterModule.dll_096740FADA2E38A7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.GridModule.dll_505FBEAA414AD546.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.HotReloadModule.dll_70D84D7E6F3D668A.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.IMGUIModule.dll_28468CE992BF3DDB.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ImageConversionModule.dll_ADF9BA4B191BF455.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.InputLegacyModule.dll_ECF0FB0D8FDD4927.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.InputModule.dll_565CB53342C5CE9E.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_36E54CAD8A53D56C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_0E2A012C281F5A99.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_79C4A68E9D90039B.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_99568CD5785D85D5.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.PerformanceReportingModule.dll_CB608DEB9A72E30E.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.Physics2DModule.dll_3C357F693507429D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.PhysicsModule.dll_AE29DA6F3175B80B.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_E039C5087D99F039.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.PropertiesModule.dll_36A280394D199CE3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_84F3FA541DF96D66.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.ScreenCaptureModule.dll_50CCFA329EC001CE.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.SharedInternalsModule.dll_320AF9209049EFA5.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteMaskModule.dll_F293B38AFB9DCE21.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_750D0D49AD8DCB40.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_A4247CC8E3920246.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_80CF91122EE50054.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_5D4119ECC9E5B634.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TLSModule.dll_6DAC6796B7DE8E1F.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_C87055DE073400F9.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_99D135A891A08062.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_AA3B5DF2776E59D2.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_139B379B601A6BED.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_5B836E0CEF9E250B.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_7A0C6C3D55F781C3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.TilemapModule.dll_676CBD5F1EF0E202.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_79746E5030301F94.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UIElementsModule.dll_617F7B54CD11F22B.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UIModule.dll_6CF3C9B086CA8BA4.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UmbraModule.dll_6ABB999B59B4556D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsCommonModule.dll_669F4B2FB45B816C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsModule.dll_B8F5FD9F2484D7D1.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityConnectModule.dll_3DA045D2D9A39585.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityCurlModule.dll_22AC30AA041E3CF5.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityTestProtocolModule.dll_A85587060C73CBE3.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAssetBundleModule.dll_0EB71790CC8CEF62.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAudioModule.dll_435CE1CA20DDADA6.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_BF98C1F524108ED4.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_038A623DF8ED143B.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_2645B368DF5DE177.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_EE8B00058E4BF78C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_BFC5F0362885111C.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_25B685515E6A38C7.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_14F071ED8F1FC59F.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.VirtualTexturingModule.dll_E89EA75ED0716D2D.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_E93D7DE4BA2CBDB8.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_F284B33AB1BF5E7A.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/artifacts/mvdfrm/UnityEngine.dll_290F04FE806DA916.mvfrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/AssetImportWorker2.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler1.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler2.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler3.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler4.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler5.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler6.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler7.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/EditorUserBuildSettings.asset" afterPath="$PROJECT_DIR$/The Lost Mines/Library/EditorUserBuildSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/The Lost Mines/Library/InspectorExpandedItems.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/SceneVisibilityState.asset" afterPath="$PROJECT_DIR$/The Lost Mines/Library/SceneVisibilityState.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Rider.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Settings.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Settings.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.TextMeshPro.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Timeline.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.Timeline.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.State.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualScripting.State.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEditor.UI.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEditor.UI.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEngine.UI.dll" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ScriptAssemblies/UnityEngine.UI.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.consulo/workspace.xml" afterPath="$PROJECT_DIR$/.consulo/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Material_And_Model_forGame/Креативные ассеты/Персонаж и сумки/T_Face_00.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Material_And_Model_forGame/Креативные ассеты/Персонаж и сумки/T_Face_00.jpg.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Music/Volume_Music.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Music/Volume_Music.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Docs/.~lock.05-Kriterii-otsenki_1.xlsx#" afterPath="$PROJECT_DIR$/Docs/.~lock.05-Kriterii-otsenki_1.xlsx#" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ArtifactDB" afterPath="$PROJECT_DIR$/Library/ArtifactDB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ArtifactDB-lock" afterPath="$PROJECT_DIR$/Library/ArtifactDB-lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" afterPath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/bee_backend.info" afterPath="$PROJECT_DIR$/Library/Bee/bee_backend.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" afterPath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" afterPath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Settings.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Settings.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Core.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Flow.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualScripting.State.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.pdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Search/transactions.db" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/SourceAssetDB" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/SourceAssetDB-lock" afterPath="$PROJECT_DIR$/Library/SourceAssetDB-lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d3/d358b05bf9e6af1c9fc139ec0cff658a.json" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d3/d358b05bf9e6af1c9fc139ec0cff658a.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/Style.catalog" afterPath="$PROJECT_DIR$/Library/Style.catalog" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/expandedItems" afterPath="$PROJECT_DIR$/Library/expandedItems" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ilpp.pid" afterPath="$PROJECT_DIR$/Library/ilpp.pid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Assets/Scenes/SampleScene.unity" afterPath="$PROJECT_DIR$/The Lost Mines/Assets/Scenes/SampleScene.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ArtifactDB" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ArtifactDB" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ArtifactDB-lock" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ArtifactDB-lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/TundraBuildState.state" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/TundraBuildState.state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/TundraBuildState.state.map" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/TundraBuildState.state.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/backend1.traceevents" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/backend1.traceevents" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/backend2.traceevents" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/backend2.traceevents" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/bee_backend.info" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/bee_backend.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/buildprogram0.traceevents" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/buildprogram0.traceevents" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/fullprofile.json" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/fullprofile.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/tundra.digestcache" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/tundra.digestcache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Bee/tundra.log.json" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Bee/tundra.log.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/PackageManager/ProjectCache" afterPath="$PROJECT_DIR$/The Lost Mines/Library/PackageManager/ProjectCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/PackageManager/ProjectCache.md5" afterPath="$PROJECT_DIR$/The Lost Mines/Library/PackageManager/ProjectCache.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Search/transactions.db" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Search/transactions.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/SourceAssetDB" afterPath="$PROJECT_DIR$/The Lost Mines/Library/SourceAssetDB" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/SourceAssetDB-lock" afterPath="$PROJECT_DIR$/The Lost Mines/Library/SourceAssetDB-lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/StateCache/SceneView/73/73b5c9f80a04ff12b634ff064a3d92f8.json" afterPath="$PROJECT_DIR$/The Lost Mines/Library/StateCache/SceneView/73/73b5c9f80a04ff12b634ff064a3d92f8.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/Style.catalog" afterPath="$PROJECT_DIR$/The Lost Mines/Library/Style.catalog" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/expandedItems" afterPath="$PROJECT_DIR$/The Lost Mines/Library/expandedItems" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Library/ilpp.pid" afterPath="$PROJECT_DIR$/The Lost Mines/Library/ilpp.pid" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/AssetImportWorker0.log" afterPath="$PROJECT_DIR$/The Lost Mines/Logs/AssetImportWorker0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/AssetImportWorker1.log" afterPath="$PROJECT_DIR$/The Lost Mines/Logs/AssetImportWorker1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-AssetImportWorker0.log" afterPath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-AssetImportWorker0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/The Lost Mines/Logs/shadercompiler-UnityShaderCompiler0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The Lost Mines/UserSettings/Layouts/default-2022.dwlt" afterPath="$PROJECT_DIR$/The Lost Mines/UserSettings/Layouts/default-2022.dwlt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,7 +456,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Joystick_Controller.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Music/Volume_Music.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
@@ -122,18 +464,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Joystick_Controller.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Music/Menu_Music.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Joystick_Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -146,47 +488,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/ItemsEnum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/Items.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Volume_Music.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Music/Volume_Music.cs">
+      <file leaf-file-name="ItemsEnum.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/ItemsEnum.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Items.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/Items.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Player.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Menu_Music.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Music/Menu_Music.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Joystick_Controller.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Joystick_Controller.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="46" column="40" lean-forward="false" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -209,6 +549,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Music/Volume_Music.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Joystick_Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ControlPlayer/Player.cs" />
+        <option value="$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/ItemsEnum.cs" />
+        <option value="$PROJECT_DIR$/The Lost Mines/Assets/Scripts/Items/Items.cs" />
       </list>
     </option>
   </component>
@@ -260,6 +602,32 @@
               <item name="Scripts" type="8337b015:PsiDirectoryNode" />
               <item name="Music" type="8337b015:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="THE LOST MINES" type="dc9f28ed:ProjectViewProjectNode" />
+              <item name="THE LOST MINES" type="8337b015:PsiDirectoryNode" />
+              <item name="The Lost Mines" type="8337b015:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="THE LOST MINES" type="dc9f28ed:ProjectViewProjectNode" />
+              <item name="THE LOST MINES" type="8337b015:PsiDirectoryNode" />
+              <item name="The Lost Mines" type="8337b015:PsiDirectoryNode" />
+              <item name="Assets" type="8337b015:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="THE LOST MINES" type="dc9f28ed:ProjectViewProjectNode" />
+              <item name="THE LOST MINES" type="8337b015:PsiDirectoryNode" />
+              <item name="The Lost Mines" type="8337b015:PsiDirectoryNode" />
+              <item name="Assets" type="8337b015:PsiDirectoryNode" />
+              <item name="Scripts" type="8337b015:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="THE LOST MINES" type="dc9f28ed:ProjectViewProjectNode" />
+              <item name="THE LOST MINES" type="8337b015:PsiDirectoryNode" />
+              <item name="The Lost Mines" type="8337b015:PsiDirectoryNode" />
+              <item name="Assets" type="8337b015:PsiDirectoryNode" />
+              <item name="Scripts" type="8337b015:PsiDirectoryNode" />
+              <item name="Items" type="8337b015:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -306,17 +674,18 @@
       <workItem from="1739452118644" duration="34000" />
       <workItem from="1739516655220" duration="3876000" />
       <workItem from="1739525510234" duration="5721000" />
+      <workItem from="1739607237388" duration="2007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12676000" />
+    <option name="totallyTimeSpent" value="14683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1050" extended-state="6" />
     <layout>
       <window_info id="Services" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26103336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26533908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
